@@ -25,7 +25,7 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=rubelahme&card_width=550&show_icons=true&theme=radical)](https://github.com/rubelahme)
 
-
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=rubelahme&card_width=550)](https://github.com/rubelahme/rubelahme)
 
 
 
