@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 
+<br/>
+<br/>
+
+
+[My Resume](https://drive.google.com/file/d/1CWYotf0FAMoZ_oIXw6VhDimLJdch51kV/view)
 
 ### Languages and Tools:
 
