@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rubel Ahmed
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Developer
+- 🌱 I’m currently learning programing
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 
 
@@ -21,6 +21,7 @@
 
 <br/>
 <br/>
+<img width="550px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=solaimanshadin&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=rubelahme&card_width=550&show_icons=true&theme=radical)](https://github.com/rubelahme)
 
