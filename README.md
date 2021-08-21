@@ -2,7 +2,7 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍 React.js Lover 😍😍 !
 - 🌱 I’m currently learning everything 🤣
 - 💞️ I’m looking to collaborate on ..
-- 🥅 2021 Goals: TypeScript, React-Native, Redux, Redux.js !
+- 🥅 2021 Goals: TypeScript, React-Native, Redux.js !
 - ⚡ Fun fact: I love to Explore the world 
 <br/>
 <br/>
