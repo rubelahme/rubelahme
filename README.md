@@ -1,4 +1,4 @@
-### Hi there, I'm  [Rubel Ahmed][website] 👋
+### Hi there, I'm  [Rubel Ahmed] 👋
 ## I'm a 😍😍 JavaScript Lover 😍😍 React.js Lover 😍😍 !
 - 🌱 I’m currently learning everything 🤣
 - 💞️ I’m looking to collaborate on ..
